@@ -26,8 +26,8 @@
     "revision": "cm-11.0"
   },
   {
-    "remote": "gh",
-    "repository": "TheMuppets/proprietary_vendor_htc",
+    "remote": "tm",
+    "repository": "proprietary_vendor_htc",
     "target_path": "vendor/htc",
     "revision": "cm-11.0"
   }
